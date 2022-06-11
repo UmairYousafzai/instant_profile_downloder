@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#caab50</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="text">#ffff</color>
+    <color name="yellow">#caab50</color>
+    <color name="black">#000000</color>
+    <color name="background">#2d2d2d</color>
+    <color name="background2">#10caab50   </color>
+
+</resources>
